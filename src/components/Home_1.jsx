@@ -75,7 +75,7 @@ const Home_1 = () => {
         <div className="p-20 flex flex-col items-center">
           <h3 className="text-3xl py-1">Services I offer</h3>
           <p className="text-md py-2 leading-8 text-gray-800 max-w-md text-center xl:max-w-2xl">
-            Since the beginning of my journey as a freelancer developer, I've
+            Since the beginning of my journey as a freelancer developer, {"I've"}
             done remote work for
             <span className="text-teal-500">Jatin kumar </span> is my name
             Worked fro Google ,Amazon and even{" "}
@@ -140,7 +140,7 @@ const Home_1 = () => {
             <h3 className="text-3xl py-1 dark:text-gray-800 ">Portofolio</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-800">
               Since the beginning of my journey as a freelance designer and
-              developer, I've done remote work for
+              developer, {"I've"} done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">startups </span>
               and collaborated with talanted people to create digital products
